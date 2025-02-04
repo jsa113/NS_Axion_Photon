@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Satherley"
+  given-names: "Jesse"
+  orcid: "https://orcid.org/0009-0009-2517-2080"
+title: "NS_Axion_Photon"
+version: 1.0.0
+doi: 10.48550/arXiv.2409.02263
+date-released: 2025-02-04
+url: "https://github.com/jsa113/NS_Axion_Photon"
